@@ -544,7 +544,7 @@ Check the Proxmox API task logs and confirm that the configured API token has th
 
 ## 🗺️ Development & Contributions
 
-KVNX Panel is developed by KVNX.
+KVNX Panel is developed by Zyren Tech.
 
 Contributions, suggestions, bug reports and feature requests are welcome.
 
@@ -579,7 +579,7 @@ See the [LICENSE](LICENSE) file for the applicable terms and conditions.
 
 ## ❤️ Credits & Development
 
-**Developed and maintained by KVNX**
+**Developed and maintained by Zyren Tech**
 
 KVNX Panel is built to make Proxmox VPS management simpler, more accessible and more efficient.
 
