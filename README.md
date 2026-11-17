@@ -563,7 +563,9 @@ https://github.com/alokgame2009-bot/kvnx
 
 ### Report a Bug
 
-https://github.com/atyrolabs/alpm/issues
+.env
+
+https://github.com/alokgame2009-bot/kvnx/issues
 
 ---
 
