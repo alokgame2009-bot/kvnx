@@ -21,7 +21,7 @@
 
 ## 🚀 Introduction
 
-**KVNX Panel (KVNX Proxmox Management)** is a next-generation Proxmox VPS management panel developed by **KVNX**.
+**KVNX Panel (KVNX Proxmox Management)** is a next-generation Proxmox VPS management panel developed by **Zyren Tech**.
 
 Built with Node.js, Express.js, SQLite and the official Proxmox VE API, KVNX Panel provides a centralized platform for managing virtual machines, LXC containers, Proxmox nodes, users and VPS resources through a modern web interface.
 
