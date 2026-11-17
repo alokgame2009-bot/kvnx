@@ -559,7 +559,7 @@ Please avoid including passwords, API tokens, private IP information or other se
 
 ### GitHub Repository
 
-https://github.com/atyrolabs/alpm
+https://github.com/alokgame2009-bot/kvnx
 
 ### Report a Bug
 
@@ -588,7 +588,7 @@ We aim to provide hosting providers and infrastructure administrators with a mod
   <br>
   <b>Powered by KVNX</b>
   <br><br>
-  <a href="https://github.com/atyrolabs/alpm">⭐ Star the Repository</a>
+  <a href="https://github.com/alokgame2009-bot/kvnx">⭐ Star the Repository</a>
   <br>
   <sub>Build. Manage. Scale.</sub>
 </p>
