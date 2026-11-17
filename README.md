@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/KVNX%20Panel-v1.1.0-orange?style=for-the-badge" alt="KVNX Panel Version">
-  <img src="https://img.shields.io/badge/Developer-KVNX-white?style=for-the-badge" alt="KVNX">
+  <img src="https://img.shields.io/badge/Developer-Zyren-white?style=for-the-badge" alt="KVNX">
   <img src="https://img.shields.io/badge/Platform-Proxmox%20VE-orange?style=for-the-badge" alt="Proxmox VE">
   <img src="https://img.shields.io/badge/Node.js-20%2B-green?style=for-the-badge" alt="Node.js">
 </p>
